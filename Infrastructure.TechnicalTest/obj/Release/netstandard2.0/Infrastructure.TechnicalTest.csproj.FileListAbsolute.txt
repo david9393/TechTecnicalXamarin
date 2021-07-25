@@ -1,0 +1,8 @@
+C:\Users\devel\Documents\Xamarin\TechTecnicalXamarin\Infrastructure.TechnicalTest\bin\Release\netstandard2.0\Infrastructure.TechnicalTest.deps.json
+C:\Users\devel\Documents\Xamarin\TechTecnicalXamarin\Infrastructure.TechnicalTest\bin\Release\netstandard2.0\Infrastructure.TechnicalTest.dll
+C:\Users\devel\Documents\Xamarin\TechTecnicalXamarin\Infrastructure.TechnicalTest\bin\Release\netstandard2.0\Infrastructure.TechnicalTest.pdb
+C:\Users\devel\Documents\Xamarin\TechTecnicalXamarin\Infrastructure.TechnicalTest\obj\Release\netstandard2.0\Infrastructure.TechnicalTest.AssemblyInfoInputs.cache
+C:\Users\devel\Documents\Xamarin\TechTecnicalXamarin\Infrastructure.TechnicalTest\obj\Release\netstandard2.0\Infrastructure.TechnicalTest.AssemblyInfo.cs
+C:\Users\devel\Documents\Xamarin\TechTecnicalXamarin\Infrastructure.TechnicalTest\obj\Release\netstandard2.0\Infrastructure.TechnicalTest.csproj.CoreCompileInputs.cache
+C:\Users\devel\Documents\Xamarin\TechTecnicalXamarin\Infrastructure.TechnicalTest\obj\Release\netstandard2.0\Infrastructure.TechnicalTest.dll
+C:\Users\devel\Documents\Xamarin\TechTecnicalXamarin\Infrastructure.TechnicalTest\obj\Release\netstandard2.0\Infrastructure.TechnicalTest.pdb

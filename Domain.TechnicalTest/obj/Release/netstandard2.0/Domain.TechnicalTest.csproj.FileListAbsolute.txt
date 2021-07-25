@@ -1,0 +1,12 @@
+C:\Users\devel\Documents\Xamarin\TechTecnicalXamarin\Domain.TechnicalTest\bin\Release\netstandard2.0\Domain.TechnicalTest.deps.json
+C:\Users\devel\Documents\Xamarin\TechTecnicalXamarin\Domain.TechnicalTest\bin\Release\netstandard2.0\Domain.TechnicalTest.dll
+C:\Users\devel\Documents\Xamarin\TechTecnicalXamarin\Domain.TechnicalTest\bin\Release\netstandard2.0\Domain.TechnicalTest.pdb
+C:\Users\devel\Documents\Xamarin\TechTecnicalXamarin\Domain.TechnicalTest\bin\Release\netstandard2.0\Infrastructure.TechnicalTest.dll
+C:\Users\devel\Documents\Xamarin\TechTecnicalXamarin\Domain.TechnicalTest\bin\Release\netstandard2.0\Infrastructure.TechnicalTest.pdb
+C:\Users\devel\Documents\Xamarin\TechTecnicalXamarin\Domain.TechnicalTest\obj\Release\netstandard2.0\Domain.TechnicalTest.csprojAssemblyReference.cache
+C:\Users\devel\Documents\Xamarin\TechTecnicalXamarin\Domain.TechnicalTest\obj\Release\netstandard2.0\Domain.TechnicalTest.AssemblyInfoInputs.cache
+C:\Users\devel\Documents\Xamarin\TechTecnicalXamarin\Domain.TechnicalTest\obj\Release\netstandard2.0\Domain.TechnicalTest.AssemblyInfo.cs
+C:\Users\devel\Documents\Xamarin\TechTecnicalXamarin\Domain.TechnicalTest\obj\Release\netstandard2.0\Domain.TechnicalTest.csproj.CoreCompileInputs.cache
+C:\Users\devel\Documents\Xamarin\TechTecnicalXamarin\Domain.TechnicalTest\obj\Release\netstandard2.0\Domain.TechnicalTest.csproj.CopyComplete
+C:\Users\devel\Documents\Xamarin\TechTecnicalXamarin\Domain.TechnicalTest\obj\Release\netstandard2.0\Domain.TechnicalTest.dll
+C:\Users\devel\Documents\Xamarin\TechTecnicalXamarin\Domain.TechnicalTest\obj\Release\netstandard2.0\Domain.TechnicalTest.pdb
